@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Store xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<storeId>c18f0b0c-0125-4d14-9b86-6957d65eb8a8</storeId>
+	<storeName>Embed Book Store</storeName>
+	<books>
+		<Book>
+			<ISBNCode>978-1-250-14526-0</ISBNCode>
+			<bookName>The Madness of Crowds</bookName>
+			<author>Louise Penny</author>
+			<price>12.59</price>
+			<stock>64</stock>
+		</Book>
+		<Book>
+			<ISBNCode>978-1-5011-3597-2</ISBNCode>
+			<bookName>American Marxism</bookName>
+			<author>Mark R. Levin</author>
+			<price>15.59</price>
+			<stock>29</stock>
+		</Book>
+		<Book>
+			<ISBNCode>978-1-5011-1036-8</ISBNCode>
+			<bookName>It Ends with Us</bookName>
+			<author>Colleen Hoover</author>
+			<price>18.5</price>
+			<stock>26</stock>
+		</Book>
+	</books>
+</Store>
